@@ -89,7 +89,7 @@ white-space: nowrap;
   background: var(--color-secondary);
   color: #fff;
 }
-.bagde--small {
+.bagde-small {
   font-size: 1.6rem;
 }
 @media screen and (min-width: 1024px) {
